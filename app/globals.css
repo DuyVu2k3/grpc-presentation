@@ -1,7 +1,10 @@
 @import "tailwindcss";
 
-/* Thêm màu nền nhẹ cho dịu mắt */
+html {
+  scroll-behavior: smooth;
+}
+
 body {
-  background-color: #f8fafc; /* Màu xám rất nhạt */
-  color: #1e293b; /* Màu chữ đen xám */
+  background-color: #f8fafc;
+  color: #1e293b;
 }
